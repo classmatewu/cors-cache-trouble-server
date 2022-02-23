@@ -1,0 +1,23 @@
+{
+  "name": "cloudrun-test",
+  "version": "1.0.0",
+  "description": ":rocket: 腾讯云托管初体验",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classmatewu/cloudrun-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classmatewu/cloudrun-test/issues"
+  },
+  "homepage": "https://github.com/classmatewu/cloudrun-test#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
